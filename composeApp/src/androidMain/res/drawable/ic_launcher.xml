@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android 7.x (no adaptive icons): same art, clipped to a circle by the oval background. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item><shape android:shape="oval"><solid android:color="#FFF0A020" /></shape></item>
+    <item android:drawable="@drawable/ic_launcher_foreground" />
+</layer-list>
